@@ -1,47 +1,33 @@
-echo "# memory"
-# Getting Started with Create React App
+# Idea of Memory game (programming way)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We will have a context with a useState (React hook). Called "game_state"
 
-## Available Scripts
+This game state will have 4 values
 
-In the project directory, you can run:
+### `welcome, game, game_over, congrats`
 
-### `npm start`
+These states will determine which page will be shown, 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Welcome
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This will just have a welcome message and a button to start the game
 
-### `npm test`
+## Game
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Just the game, not much to say.
 
-### `npm run build`
+## Game over
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We'll show this page when user loses, a user loses when after 20 tries doesn't matches all of the cards
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Congrats
 
-### `npm run eject`
+We'll show this page when user wins.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# First brain storm 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[in FreeForm](https://www.icloud.com/freeform/0c9Q3eApqIdO_3khbpTj4-a7w#Memory_main_and_first_idea)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# We'll use styled-components to style this app

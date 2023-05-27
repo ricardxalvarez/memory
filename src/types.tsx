@@ -1,0 +1,1 @@
+export type GameState = 'welcome' | 'game' | 'game_over' | 'congrats'
