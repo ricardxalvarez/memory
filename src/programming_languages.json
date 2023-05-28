@@ -1,0 +1,42 @@
+[
+    {
+        "name": "C#",
+        "image": "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    },
+    {
+        "name": "C++",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710"
+    },
+    {
+        "name": "JavaScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+    },
+    {
+        "name": "TypeScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+    },
+    {
+        "name": "SQL",
+        "image": "https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png"
+    },
+    {
+        "name": "Python",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+    },
+    {
+        "name": "Java",
+        "image": "https://cdn.freebiesupply.com/logos/thumbs/2x/java-4-logo.png"
+    },
+    {
+        "name": "Ruby on Rails",
+        "image": "https://www.edureka.co/blog/wp-content/uploads/2019/02/What-is-Ruby-on-Rails-1.png"
+    },
+    {
+        "name": "GO",
+        "image": "https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"
+    },
+    {
+        "name": "Dart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"
+    }
+]
