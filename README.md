@@ -30,4 +30,4 @@ We'll show this page when user wins.
 
 [in FreeForm](https://www.icloud.com/freeform/0c9Q3eApqIdO_3khbpTj4-a7w#Memory_main_and_first_idea)
 
-# We'll use styled-components to style this app
+We'll use styled-components to style this app

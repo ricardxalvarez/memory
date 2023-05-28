@@ -6,6 +6,8 @@ body {
   background-color: #000000;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Space Mono', monospace;
+  color: #FFFFFF;
 }
 
 code {
